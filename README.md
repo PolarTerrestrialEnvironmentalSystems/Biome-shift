@@ -2,10 +2,11 @@ Changes in biomes and bioclimatic variables
 
 R script for the manuscript: Li, C., Dallmeyer, A. & Herzschuh, U. Magnitude of biome shifts over the last 21,000 years reveals the impact of seasonality and intense warming on future vegetation.
 
-General content
+General content：
+
 This repository includes the script for data analysis and visualization, as well as input data for script runs and script outputs.
 
-Details
+Details：
 1. Statistical analyses.R
 •	Statistical analysis 1: Biome compositional turnover (EMD)_21-0ka
 •	Statistical analysis 2: Biome shifts_21-0ka
