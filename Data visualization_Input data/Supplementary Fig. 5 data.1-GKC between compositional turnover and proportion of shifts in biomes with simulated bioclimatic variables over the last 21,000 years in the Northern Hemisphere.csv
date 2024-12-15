@@ -1,0 +1,43 @@
+"Variable","BIO","R_value","P_value","R_value_Max"
+"Reconstructed megabiome shift rate","Annual mean temperature",-0.601494497547128,0.0271441080179725,0.693665583813206
+"Reconstructed megabiome shift rate","Temperature seasonality",0.668553762583708,0.0135174490573183,0.693665583813206
+"Reconstructed megabiome shift rate","Mean temperature of wettest quarter",-0.606426657156643,0.0259135574960656,0.693665583813206
+"Reconstructed megabiome shift rate","Mean temperature of driest quarter",-0.562407978161168,0.0383174150500441,0.693665583813206
+"Reconstructed megabiome shift rate","Mean temperature of warmest quarter",-0.490917030028431,0.0658546592388209,0.693665583813206
+"Reconstructed megabiome shift rate","Mean temperature of coldest quarter",-0.627772932494288,0.0210241872048784,0.693665583813206
+"Reconstructed megabiome shift rate","Annual precipitation",-0.595973400121765,0.0285678940119662,0.693665583813206
+"Reconstructed megabiome shift rate","Precipitation of wettest month",-0.446061111259041,0.0882030754732006,0.693665583813206
+"Reconstructed megabiome shift rate","Precipitation of driest month",-0.677059020399332,0.0122301972758214,0.693665583813206
+"Reconstructed megabiome shift rate","Precipitation seasonality",0.693665583813206,0.00996938061909685,0.693665583813206
+"Reconstructed megabiome shift rate","Precipitation of wettest quarter",-0.447127622749168,0.0876246589074432,0.693665583813206
+"Reconstructed megabiome shift rate","Precipitation of driest quarter",-0.654773940058346,0.0157996808606853,0.693665583813206
+"Reconstructed megabiome shift rate","Precipitation of warmest quarter",-0.467454824353717,0.077040559608785,0.693665583813206
+"Reconstructed megabiome shift rate","Precipitation of coldest quarter",-0.609101533441575,0.0252623119516924,0.693665583813206
+"Simulated megabiome shift rate","Annual mean temperature",-0.218714085330145,0.138027045598651,0.595042618707781
+"Simulated megabiome shift rate","Temperature seasonality",0.595042618707781,0.000569787397158134,0.595042618707781
+"Simulated megabiome shift rate","Mean temperature of wettest quarter",-0.209650860996273,0.148466438297697,0.595042618707781
+"Simulated megabiome shift rate","Mean temperature of driest quarter",-0.255404273897049,0.100662036935722,0.595042618707781
+"Simulated megabiome shift rate","Mean temperature of warmest quarter",-0.00931518450299353,0.481723974546498,0.595042618707781
+"Simulated megabiome shift rate","Mean temperature of coldest quarter",-0.234616986477127,0.120872713028288,0.595042618707781
+"Simulated megabiome shift rate","Annual precipitation",-0.297903527347322,0.0668278173845071,0.595042618707781
+"Simulated megabiome shift rate","Precipitation of wettest month",-0.0494813614540385,0.403780275565468,0.595042618707781
+"Simulated megabiome shift rate","Precipitation of driest month",-0.402248096952323,0.0193617146003917,0.595042618707781
+"Simulated megabiome shift rate","Precipitation seasonality",0.4721952799331,0.00672815746643657,0.595042618707781
+"Simulated megabiome shift rate","Precipitation of wettest quarter",0.0261219818851706,0.448864926421519,0.595042618707781
+"Simulated megabiome shift rate","Precipitation of driest quarter",-0.440153138050029,0.0112055682451644,0.595042618707781
+"Simulated megabiome shift rate","Precipitation of warmest quarter",-0.203131803919561,0.156273235527594,0.595042618707781
+"Simulated megabiome shift rate","Precipitation of coldest quarter",-0.586016485077233,0.000706371850411168,0.595042618707781
+"Biome compositional turnover","Annual mean temperature",-0.334114676878725,0.0560557065175349,0.501963942846034
+"Biome compositional turnover","Temperature seasonality",0.495889075345362,0.00707005066173861,0.501963942846034
+"Biome compositional turnover","Mean temperature of wettest quarter",-0.400103731863106,0.0268733645615043,0.501963942846034
+"Biome compositional turnover","Mean temperature of driest quarter",-0.29687550961346,0.0803626159912785,0.501963942846034
+"Biome compositional turnover","Mean temperature of warmest quarter",-0.222513203555712,0.149044605244669,0.501963942846034
+"Biome compositional turnover","Mean temperature of coldest quarter",-0.376943916650837,0.0353157990495676,0.501963942846034
+"Biome compositional turnover","Annual precipitation",-0.444748422853546,0.0150736518777267,0.501963942846034
+"Biome compositional turnover","Precipitation of wettest month",-0.388251022360414,0.0309726975859954,0.501963942846034
+"Biome compositional turnover","Precipitation of driest month",-0.438989199709239,0.0163070747197376,0.501963942846034
+"Biome compositional turnover","Precipitation seasonality",0.451767703214313,0.0136722774894941,0.501963942846034
+"Biome compositional turnover","Precipitation of wettest quarter",-0.340036823545063,0.0527529893283911,0.501963942846034
+"Biome compositional turnover","Precipitation of driest quarter",-0.427359375018851,0.0190419840855184,0.501963942846034
+"Biome compositional turnover","Precipitation of warmest quarter",-0.484822510328921,0.00840746456574438,0.501963942846034
+"Biome compositional turnover","Precipitation of coldest quarter",-0.501963942846034,0.006413438640553,0.501963942846034
