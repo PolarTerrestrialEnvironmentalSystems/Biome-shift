@@ -9,6 +9,9 @@ This repository includes the script for data analysis and visualization, as well
 Details：
 
 1. Statistical analyses.R
+
+   Input data: https://github.com/PolarTerrestrialEnvironmentalSystems/Biome/releases/tag/Statistical-analyses-Input-data
+   Result: https://github.com/PolarTerrestrialEnvironmentalSystems/Biome/releases/tag/Statistical-analyses-Result
    
 •	Statistical analysis 1: Biome compositional turnover (EMD)_21-0ka
 
@@ -21,6 +24,9 @@ Details：
 •	Statistical analysis 5: Gaussian kernel correlation
 
 2. Data visualization.R
+   
+   Input data: https://github.com/PolarTerrestrialEnvironmentalSystems/Biome/releases/tag/Data-visualization-Input-data
+   Result: https://github.com/PolarTerrestrialEnvironmentalSystems/Biome/releases/tag/Data-visualization-Result
    
 •	Fig. 1: Spatial distribution of the fossil pollen records analyzed showing the proportion of biome shifts per site over the last 21,000 years
 
