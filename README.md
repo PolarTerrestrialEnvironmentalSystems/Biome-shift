@@ -8,7 +8,7 @@ This repository includes the script for data analysis and visualization, as well
 
 Details：
 
-1. Statistical analyses.R
+1. Statistical analyses.R (https://github.com/PolarTerrestrialEnvironmentalSystems/Biome-shift/releases/tag/R_scripts)
 
    Input data: https://github.com/PolarTerrestrialEnvironmentalSystems/Biome/releases/tag/Statistical-analyses-Input-data
    
@@ -25,7 +25,7 @@ Details：
 •	Statistical analysis 5: Gaussian kernel correlation
 
 
-2. Data visualization.R
+2. Data visualization.R (https://github.com/PolarTerrestrialEnvironmentalSystems/Biome-shift/releases/tag/R_scripts)
    
    Input data: https://github.com/PolarTerrestrialEnvironmentalSystems/Biome/releases/tag/Data-visualization-Input-data
    
