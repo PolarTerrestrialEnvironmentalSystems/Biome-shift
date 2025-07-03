@@ -1,6 +1,6 @@
 Changes in biomes and bioclimatic variables
 
-R script and Supplementary data for the manuscript: Li, C., Dallmeyer, A. & Herzschuh, U. Magnitude of biome shifts over the last 21,000 years reveals the impact of seasonality and intense warming on future vegetation.
+R script for the manuscript: Li, C., Dallmeyer, A. & Herzschuh, U. Magnitude of biome shifts over the last 21,000 years reveals the impact of seasonality and intense warming on future vegetation.
 
 General content：
 
@@ -24,6 +24,7 @@ Details：
 
 •	Statistical analysis 5: Gaussian kernel correlation
 
+
 2. Data visualization.R
    
    Input data: https://github.com/PolarTerrestrialEnvironmentalSystems/Biome/releases/tag/Data-visualization-Input-data
@@ -38,12 +39,12 @@ Details：
 
 •	Fig. 4: Potential spatial patterns of bioclimates and biome changes in the MPI-ESM simulation over the next 300 years in the Northern Hemisphere
 
-•	Supplementary Fig. 1: Record density for the last 21,000 years
+•	Supplementary Fig. 1: Gaussian kernel correlations between compositional turnover and proportion of shifts in biomes over the last 21,000 years in the Northern Hemisphere
 
-•	Supplementary Fig. 2: Spatial patterns of biome distributions at 0 cal. ka BP and their agreement with modern potential natural biomes
+•	Supplementary Fig. 2: Gaussian kernel correlation coefficients between compositional turnover and proportion of shifts in biomes with simulated bioclimatic variables and their rates of change over the last 21,000 years in the Northern Hemisphere
 
 •	Supplementary Fig. 3: Temporal patterns of simulated bioclimatic variables over the last 21,000 years in the Northern Hemisphere
 
-•	Supplementary Fig. 4: Gaussian kernel correlations between compositional turnover and proportion of shifts in biomes over the last 21,000 years in the Northern Hemisphere
+•	Supplementary Fig. 4: Record density for the last 21,000 years
 
-•	Supplementary Fig. 5: Gaussian kernel correlation coefficients between compositional turnover and proportion of shifts in biomes with simulated bioclimatic variables and their rates of change over the last 21,000 years in the Northern Hemisphere 
+•	Supplementary Fig. 5: Spatial patterns of biome distributions at 0 cal. ka BP and their agreement with modern potential natural biomes
